@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Juldik0607.github.io/RTKtodo/static/css/main.f6834599.css",
+    "main.js": "/Juldik0607.github.io/RTKtodo/static/js/main.d2f9580d.js",
+    "index.html": "/Juldik0607.github.io/RTKtodo/index.html",
+    "main.f6834599.css.map": "/Juldik0607.github.io/RTKtodo/static/css/main.f6834599.css.map",
+    "main.d2f9580d.js.map": "/Juldik0607.github.io/RTKtodo/static/js/main.d2f9580d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f6834599.css",
+    "static/js/main.d2f9580d.js"
+  ]
+}
